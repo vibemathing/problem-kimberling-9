@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-kimberling-9`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1361099734`
+- Repository node ID: `R_kgDOUSC71g`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
+- Canonical Problem: `problem:kimberling-9`
+- ProblemContract SHA-256: `8ade6473e895115b52bf9fea403f373238178cf626d69cc5c6108dbe6742b3a2`
 - Problem lifecycle: `draft`
 - Problem admission: `preview_unadmitted`
 - Harness suite: `harness-source:web-research-full` `1.2.4`
 - Suite manifest SHA-256: `fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3`
-- Harness snapshot SHA-256: `a9ae2bc14e33fba31934d2a44e3c37bfbb52a3a1cf098d646b31c9c5ddf173e3`
+- Harness snapshot SHA-256: `5539c5b7629d4640a653b59294227b31e278d503e530e66a9c5b6ef26c8a0d36`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
